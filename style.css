@@ -1,0 +1,50 @@
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.counter{
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 300px;
+    padding-bottom: 30px;
+}
+.zero{
+    width: 100px;
+    height: 100px;
+}
+.btndiv{
+    margin-top: 100px;
+}
+.decrease{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.decrease:hover{
+    background-color: black;
+    color: white;
+}
+.reset{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.reset:hover{
+    background-color: black;
+    color: white;
+}
+.increase{
+    font-size: 20px;
+}
+.increase:hover{
+    background-color: black;
+    color: white;
+}
+.zero{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+   
+    margin-top: 50px;
+    
+}
